@@ -6,6 +6,7 @@ public class day101 {
 public void demo()
 {
 	System.out.println("Pawan");	
+	System.out.println("Pawan2");	
 }
 
 	}
